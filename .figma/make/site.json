@@ -1,0 +1,10 @@
+{
+  "description": "Creates low-fidelity HUD screen prototypes from documents, enabling designers to quickly visualize and iterate user interface concepts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
